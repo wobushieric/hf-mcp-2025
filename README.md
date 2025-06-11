@@ -1,3 +1,13 @@
+---
+title: Travel Documentation MCP Server
+emoji: 🌴
+sdk: gradio
+sdk_version: 5.33.0
+app_file: travel_mcp_server.py
+pinned: false
+short_description: MCP hackathon 2025
+---
+
 # Travel Documentation MCP Server
 
 > An AI-powered travel documentation assistant built with Gradio's MCP server capabilities and smolagents for the Hugging Face MCP Hackathon 2025.
