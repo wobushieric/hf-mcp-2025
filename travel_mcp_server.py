@@ -204,5 +204,5 @@ if __name__ == "__main__":
         # share=True,
         show_error=True,
         mcp_server=True,
-        server_port=7861
+        # server_port=7861
     )

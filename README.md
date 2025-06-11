@@ -47,7 +47,7 @@ ollama pull gemma3:4b
 ```bash
 python travel_mcp_server.py
 ```
-The server will start at `http://127.0.0.1:7861` with MCP endpoint at `http://127.0.0.1:7861/gradio_api/mcp/sse`
+The server will start at `http://127.0.0.1:7860` with MCP endpoint at `http://127.0.0.1:7860/gradio_api/mcp/sse`
 
 ### 4. Start the AI Agent Client
 ```bash

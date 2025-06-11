@@ -23,7 +23,7 @@ def self_introduction() -> str:
 
 
 mcp_client = MCPClient(
-        {"url": "http://127.0.0.1:7861/gradio_api/mcp/sse"}
+        {"url": "http://127.0.0.1:7860/gradio_api/mcp/sse"}
     )
 
 try:
