@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "travel-docs": {
+      "command": "python",
+      "args": ["travel_docs_server.py"],
+      "env": {
+        "PYTHONPATH": "."
+      }
+    }
+  }
+}
